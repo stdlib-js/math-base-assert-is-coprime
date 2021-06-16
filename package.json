@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-coprime",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Test if two numbers are coprime.",
   "license": "Apache-2.0",
   "author": {
