@@ -95,6 +95,24 @@ bool = isCoprime( NaN, NaN );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/assert/is-composite`][@stdlib/math/base/assert/is-composite]: test if a number is composite.
+-   [`@stdlib/math/base/assert/is-prime`][@stdlib/math/base/assert/is-prime]: test if a number is prime.
+-   [`@stdlib/math/base/special/gcd`][@stdlib/math/base/special/gcd]: compute the greatest common divisor (gcd).
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -151,6 +169,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-assert-is-coprime/main/LICENSE
 
 [coprime-integers]: https://en.wikipedia.org/wiki/Coprime_integers
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/assert/is-composite]: https://github.com/stdlib-js/math-base-assert-is-composite
+
+[@stdlib/math/base/assert/is-prime]: https://github.com/stdlib-js/math-base-assert-is-prime
+
+[@stdlib/math/base/special/gcd]: https://github.com/stdlib-js/math-base-special-gcd
+
+<!-- </related-links> -->
 
 </section>
 
