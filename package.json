@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-coprime",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "Test if two numbers are coprime.",
   "license": "Apache-2.0",
   "author": {
@@ -37,13 +37,13 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-special-gcd": "^0.0.7"
+    "@stdlib/math-base-special-gcd": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.0.8",
-    "@stdlib/bench": "^0.0.12",
-    "@stdlib/constants-float64-ninf": "^0.0.8",
-    "@stdlib/constants-float64-pinf": "^0.0.8",
+    "@stdlib/assert-is-boolean": "^0.1.0",
+    "@stdlib/bench": "^0.1.0",
+    "@stdlib/constants-float64-ninf": "^0.1.0",
+    "@stdlib/constants-float64-pinf": "^0.1.0",
     "@stdlib/math-base-special-trunc": "^0.0.8",
     "@stdlib/random-base-randu": "^0.0.8",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
