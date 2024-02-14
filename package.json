@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-coprime",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Test if two numbers are coprime.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-special-gcd": "^0.1.0"
+    "@stdlib/math-base-special-gcd": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.1.1",
