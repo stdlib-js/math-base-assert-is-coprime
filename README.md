@@ -50,7 +50,7 @@ Two integers `a` and `b` are said to be **coprime** (or **relatively prime** or 
 ## Usage
 
 ```javascript
-import isCoprime from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-coprime@esm/index.mjs';
+import isCoprime from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-coprime@v0.2.0-esm/index.mjs';
 ```
 
 #### isCoprime( a, b )
@@ -87,7 +87,7 @@ bool = isCoprime( 14.0, 21.0 );
 <body>
 <script type="module">
 
-import isCoprime from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-coprime@esm/index.mjs';
+import isCoprime from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-coprime@v0.2.0-esm/index.mjs';
 
 var bool = isCoprime( 5.0, 7.0 );
 // returns true
