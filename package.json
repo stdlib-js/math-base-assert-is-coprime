@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-coprime",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Test if two numbers are coprime.",
   "license": "Apache-2.0",
   "author": {
@@ -40,15 +40,15 @@
     "@stdlib/math-base-special-gcd": "^0.2.1"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.2.1",
-    "@stdlib/constants-float64-ninf": "^0.2.1",
-    "@stdlib/constants-float64-pinf": "^0.2.1",
-    "@stdlib/math-base-special-trunc": "^0.2.1",
+    "@stdlib/assert-is-boolean": "^0.2.2",
+    "@stdlib/constants-float64-ninf": "^0.2.2",
+    "@stdlib/constants-float64-pinf": "^0.2.2",
+    "@stdlib/math-base-special-trunc": "^0.2.2",
     "@stdlib/random-base-randu": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.1"
+    "@stdlib/bench-harness": "^0.2.2"
   },
   "engines": {
     "node": ">=0.10.0",
